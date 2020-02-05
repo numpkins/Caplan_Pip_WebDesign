@@ -1,0 +1,14 @@
+.redgridtext {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-right: 1200px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-bottom: 300px;
+}
+
+p {
+  margin-bottom: 0px;
+}
